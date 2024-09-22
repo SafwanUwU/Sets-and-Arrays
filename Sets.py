@@ -12,4 +12,4 @@ print(mySet)\
 
 mySet.pop
 mySet.pop
-print("mySet")
+print(mySet)
