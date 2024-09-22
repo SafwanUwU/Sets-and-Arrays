@@ -16,5 +16,5 @@ setz = setx.difference(sety)
 print(setz)
 
 print("\nSymmentric difference of two sets:")
-setz = setx.symmentric_difference(sety)
+setz = setx.symmetric_difference(sety)
 print(setz)
